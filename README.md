@@ -7,8 +7,10 @@ Este repositorio contiene los laboratorios prácticos del curso de 14 días.
 2. Instalar dependencias (se agregarán en el Día 3).
 
 ## Ejecución
+
 Para probar el primer script:
-```bash
+# ```bash
+
 python scripts/hello_ai.py
 
 ## Day 3: CLI Assistant
