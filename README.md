@@ -9,7 +9,6 @@ Este repositorio contiene los laboratorios prácticos del curso de 14 días.
 ## Ejecución
 
 Para probar el primer script:
-# ```bash
 
 python scripts/hello_ai.py
 
