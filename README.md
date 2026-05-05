@@ -23,3 +23,16 @@ pip install -r requirements.txt
 
 Run:
 python scripts/cli_assistant.py
+
+## Day 4: Prompt Engineering
+   
+   Se ha creado una librería de prompts robustos en la carpeta `prompts/`.
+   
+   ### Plantillas incluidas:
+   1. Resumidor Estructurado
+   2. Extractor de Información
+   3. Clasificador con Justificación
+   4. Redactor Profesional
+   5. Planificador de Pasos
+   
+   Cada plantilla incluye guardrails para evitar alucinaciones y asegurar la consistencia.
